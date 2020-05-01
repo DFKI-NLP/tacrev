@@ -1,0 +1,5 @@
+{"id": "e7798fb926b9403cfcd2", "label_true": "per:title", "label_pred": "per:title"}
+{"id": "e779865fb96bbbcc4ca4", "label_true": "no_relation", "label_pred": "no_relation"}
+{"id": "e7798ae9c0adbcdc81e7", "label_true": "per:city_of_death", "label_pred": "no_relation"}
+{"id": "e779865fb9bddb4eccbc", "label_true": "no_relation", "label_pred": "no_relation"}
+{"id": "e779865fb9d2787a87ff", "label_true": "no_relation", "label_pred": "per:title"}

@@ -1,0 +1,9 @@
+# Project dependencies
+pandas
+sklearn
+jupyterlab
+matplotlib
+git+https://github.com/ChristophAlt/errudite
+
+# Testing
+pytest
